@@ -36,8 +36,8 @@ Vooraleer je begint, bekijk de [filmpjes](https://www.youtube.com/playlist?list=
 [7]: images/iphone.png
 [8]: https://www.youtube.com/watch?v=zgk1GZzc8b4&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=4&t=0s
 
-Op de afgesproken momenten kan je [hier](https://meetingsemea6.webex.com/join/wouter.boelaert) naar zijn persoonlijke webex gaan.
-
+Op de afgesproken momenten kan je de leraar naar zijn persoonlijke webex gaan.
+De link wordt gedeeld op google classroom.
 
 ## Babbelbox - problemen & mogelijke oplossingen
 ### Ik hoor de meester niet goed
