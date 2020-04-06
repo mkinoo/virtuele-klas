@@ -7,8 +7,8 @@ Taken, correctiesleutels, nieuws en discussies vind je op:
 
 |<span>|
 |---|
-|<center> [![google classroom][9]][10] </center>|
-| [Google classroom - De Linde 6A (2019-2020)](https://classroom.google.com/u/0/c/NTQ4MDcyNDUwMDRa) |
+|[![google classroom][9]][10]|
+|[Google classroom <br /> De Linde 6A (2019-2020)](https://classroom.google.com/u/0/c/NTQ4MDcyNDUwMDRa) |
 [9]: images/google_classroom.png
 [10]: https://classroom.google.com/u/0/c/NTQ4MDcyNDUwMDRa
 
