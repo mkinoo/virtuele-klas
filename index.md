@@ -3,7 +3,16 @@
 Stoffige klaslokalen zijn zo pass&eacute; ... meester Wouter brengt zijn klas naar de virtuele wereld!
 
 # Taken, nieuws en discussies
-Taken, correctiesleutels, nieuws en discussies vind je op [Google classroom - De Linde 6A (2019-2020)](https://classroom.google.com/u/0/c/NTQ4MDcyNDUwMDRa)
+Taken, correctiesleutels, nieuws en discussies vind je op:
+
+|<span>|
+|---|
+|<center> [![google classroom][9]][10] </center>|
+| [Google classroom - De Linde 6A (2019-2020)](https://classroom.google.com/u/0/c/NTQ4MDcyNDUwMDRa) |
+[9]: images/google_classroom.png
+[10]: https://classroom.google.com/u/0/c/NTQ4MDcyNDUwMDRa
+
+Je hebt een code nodig om toegang te krijgen tot de klas. Heb je deze niet? Vraag de code aan je leraar!
 
 # Babbelbox
 
