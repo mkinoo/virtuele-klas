@@ -10,19 +10,29 @@ Taken, correctiesleutels, nieuws en discussies vind je op [Google classroom - De
 Op regelmatige tijdstippen organiseert meester Wouter een "babbelbox": een videochat!
 Je kan je vrienden en vriendinnen nog eens terugzien, vragen stellen aan meester Wouter, virtueel les volgen ...
 
-De software die we gebruiken is "webex", ik  webex, jij webext, wij webexen ...<br />
+De software die we gebruiken is "webex", net zoals in het werkwoord: ik  webex, jij webext, wij webexen ... ;-) <br />
 Vooraleer je begint, bekijk de [filmpjes](https://www.youtube.com/playlist?list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d") over hoe je webex start.
-- [Webex met een windows computer](https://www.youtube.com/watch?v=aTJDeIqSdoI&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=2&t=0s)
-- [Webex met een mac computer](https://www.youtube.com/watch?v=8eLehLeTmwg&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=5&t=0s)
-- [Webex met een android telefoon](https://www.youtube.com/watch?v=j4rK7JcTwe8&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=3&t=0s)
-- [Webex met een iphone telefoon](https://www.youtube.com/watch?v=zgk1GZzc8b4&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=4&t=0s)
+
+|<span>||||
+|---|---|---|---|
+| [![windows][1]][2] | [![windows][3]][4] | [![windows][5]][6] | [![windows][7]][8] |
+| Windows computer                 | Mac computer            | Android GSM                   | iPhone GSM             |
+
+[1]: images/windows_computer.png
+[2]: https://www.youtube.com/watch?v=aTJDeIqSdoI&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=2&t=0s
+[3]: images/mac_computer.png
+[4]: https://www.youtube.com/watch?v=8eLehLeTmwg&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=5&t=0s
+[5]: images/android_phone.jpg
+[6]: https://www.youtube.com/watch?v=j4rK7JcTwe8&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=3&t=0s
+[7]: images/iphone.png
+[8]: https://www.youtube.com/watch?v=zgk1GZzc8b4&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=4&t=0s
 
 Op de afgesproken momenten kan je [hier](https://meetingsemea6.webex.com/join/wouter.boelaert) naar zijn persoonlijke webex gaan.
 
 
 ## Babbelbox - problemen & mogelijke oplossingen
 ### Ik hoor de meester niet goed
-_Soms was iemand tegen zijn mama, papa,... bezig en verstond ik de meester niet meer._
+_Ik hoorde veel achtergrondgeluid ... daardoor verstond ik de meester niet meer._
         
 Wanneer iedereen dooreen praat is het moeilijk om de meester of zelfs anderen te verstaan.
 Voor de goede orde zal de leraar iedereen zijn microfoon stil zetten. Spreek enkel wanner de meester dit zegt.
