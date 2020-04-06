@@ -40,6 +40,8 @@ Op de afgesproken momenten kan je de leraar naar zijn persoonlijke webex gaan.
 De link wordt gedeeld op google classroom.
 
 ## Babbelbox - problemen & mogelijke oplossingen
+![](images/problem_icon.png)
+
 ### Ik hoor de meester niet goed
 _Ik hoorde veel achtergrondgeluid ... daardoor verstond ik de meester niet meer._
         
