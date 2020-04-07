@@ -15,6 +15,7 @@ Taken, correctiesleutels, nieuws en discussies vind je op:
 Je hebt een code nodig om toegang te krijgen tot de klas. Heb je deze niet? Vraag de code aan je leraar!
 
 # Babbelbox
+<img src="images/babbelbox.png" height="200"></img>
 
 Op regelmatige tijdstippen organiseert meester Wouter een "babbelbox": een videochat!
 Je kan je vrienden en vriendinnen nog eens terugzien, vragen stellen aan meester Wouter, virtueel les volgen ...
