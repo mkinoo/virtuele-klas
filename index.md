@@ -60,7 +60,7 @@ Het netwerk of de computer/telefoon/tablet kan de grote hoeveelheid aan doorgest
 Dit kan meerdere oorzaken hebben:
 
 * Er zijn te veel videos die moeten getoond worden. Vergelijk het met 100 man die door dezelfde deur wil: een opstopping!<br />
-Het best is dat iedereen behalve de meester zijn video uitzet. Meld dit aan de leraar (zeg dit of tijp het via de chat). 
+Het is best dat iedereen zijn video uitzet, behalve de meester. Meld dit aan de leraar (zeg dit of tijp het via de chat). 
 * Je zit te ver van het wifi punt. Zet je dichter met je apparaat.
 * Wanneer je teveel internet verbruikt heb voor de maand kan telenet je op "smalband" zetten. Hierdoor is jouw internet niet sterk genoeg voor videochats.
 * De computer, tablet of telefoon kan het niet aan. Probeer het met een ander apparaat.
