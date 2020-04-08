@@ -21,7 +21,7 @@ Op regelmatige tijdstippen organiseert meester Wouter een "babbelbox": een video
 Je kan je vrienden en vriendinnen nog eens terugzien, vragen stellen aan meester Wouter, virtueel les volgen ...
 
 De software die we gebruiken is "webex", net zoals in het werkwoord: ik  webex, jij webext, wij webexen ... ;-) <br />
-Vooraleer je begint, bekijk de [filmpjes](https://www.youtube.com/playlist?list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d") over hoe je webex start.
+Vooraleer je begint, bekijk de [filmpjes](https://www.youtube.com/playlist?list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d) over hoe je webex start.
 
 |<span>||||
 |---|---|---|---|
@@ -37,7 +37,7 @@ Vooraleer je begint, bekijk de [filmpjes](https://www.youtube.com/playlist?list=
 [7]: images/iphone.png
 [8]: https://www.youtube.com/watch?v=zgk1GZzc8b4&list=PLMXg0pVm37Lp-C1e0vI7aetxl-YlY8n0d&index=4&t=0s
 
-Op de afgesproken momenten kan je de leraar naar zijn persoonlijke webex gaan.
+Op de afgesproken momenten kan je naar de leraar zijn persoonlijke webex gaan.
 De link wordt gedeeld op google classroom.
 
 ## Babbelbox - problemen & mogelijke oplossingen
@@ -47,7 +47,7 @@ De link wordt gedeeld op google classroom.
 _Ik hoorde veel achtergrondgeluid ... daardoor verstond ik de meester niet meer._
         
 Wanneer iedereen dooreen praat is het moeilijk om de meester of zelfs anderen te verstaan.
-Voor de goede orde zal de leraar iedereen zijn microfoon stil zetten. Spreek enkel wanner de meester dit zegt.
+Voor de goede orde zal de leraar iedereen zijn microfoon stil zetten. Spreek enkel wanneer de meester dit zegt.
 Zet je micro dus niet terug op, maar wacht tot de meester zegt dat het jouw beurt is om te spreken. Zo is het aangenaam voor iedereen.
          
 
@@ -59,10 +59,10 @@ De gemakkelijkste oplossing is webex afsluiten en opnieuw openen. Meestal zijn d
 Het netwerk of de computer/telefoon/tablet kan de grote hoeveelheid aan doorgestuurde gegevens niet aan.
 Dit kan meerdere oorzaken hebben:
 
-* Er zijn te veel videos die moeten getoond worden. Vergelijk het met 100 man die door dezelfde deur wil: een opstopping!<br />
-Het is best dat iedereen zijn video uitzet, behalve de meester. Meld dit aan de leraar (zeg dit of tijp het via de chat). 
+* Er zijn te veel video's die moeten getoond worden. Vergelijk het met 100 man die door dezelfde deur wil: een opstopping!<br />
+Het is best dat iedereen zijn video uitzet, behalve de meester. Meld dit aan de leraar (zeg dit of typ het via de chat). 
 * Je zit te ver van het wifi punt. Zet je dichter met je apparaat.
-* Wanneer je teveel internet verbruikt heb voor de maand kan telenet je op "smalband" zetten. Hierdoor is jouw internet niet sterk genoeg voor videochats.
+* Wanneer je te veel internet verbruikt heb voor de maand kan telenet je op "smalband" zetten. Hierdoor is jouw internet niet sterk genoeg voor videochats.
 * De computer, tablet of telefoon kan het niet aan. Probeer het met een ander apparaat.
 
 
