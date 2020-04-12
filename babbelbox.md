@@ -26,7 +26,7 @@ De link wordt gedeeld op google classroom.
 
 ## De knoppenbalk van webex
 
-|<span>||
+| Knop | Uitleg |
 |---|---|
 | ![](images/micro.png) | Zet de micro aan of af.|
 | ![](images/camera.png) | Zet de camera aan of af.|
