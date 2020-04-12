@@ -26,9 +26,9 @@ De link wordt gedeeld op google classroom.
 
 ## De knoppenbalk van webex
 |<span>|     |
-| ---  | --- |
-| ![](images/micro.png) | Zet de micro aan of af |
-| ![](images/camera.png) | Zet de camera aan of af |
+|--- |---|
+| ![](images/micro.png) | Zet de micro aan of af.|
+| ![](images/camera.png) | Zet de camera aan of af.|
 | ![](images/delen.png) | Deel je scherm. Dit is voor de leraar! |
 | ![](images/opnemen.png) | Neem de vergadering op. Dit is voor de leraar! |
 | ![](images/deelnemers.png) | Toon of verberg de deelnemers. |
