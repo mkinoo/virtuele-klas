@@ -25,8 +25,9 @@ Op de afgesproken momenten kan je naar de leraar zijn persoonlijke webex gaan.
 De link wordt gedeeld op google classroom.
 
 ## De knoppenbalk van webex
-|<span>|     |
-|--- |---|
+
+|<span>||
+|---|---|
 | ![](images/micro.png) | Zet de micro aan of af.|
 | ![](images/camera.png) | Zet de camera aan of af.|
 | ![](images/delen.png) | Deel je scherm. Dit is voor de leraar! |
